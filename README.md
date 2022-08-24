@@ -3,7 +3,8 @@
 
 资料内容包括总结的科目一、科目四必会知识点，最新的法规文件原文汇总。
 ## 文件资料说明
-**注意scores,topics,equipment使用gbk/gb2312/gb18030任意一种编码打开，否则乱码**。vscode右下角修改，其他markdown阅读器可找到相应的修改位置修改编码。
+**注意本地打开scores,topics,equipment使用gbk/gb2312/gb18030任意一种编码打开，否则乱码**。vscode右下角修改，其他markdown阅读器可找到相应的修改位置修改编码。github网页打开不受影响。
+
 - [scores](https://github.com/npbcts/learndrivinglicense/blob/master/scores.md):和驾驶证记分相关的知识点梳理总结，帮助记忆
 - [topics](https://github.com/npbcts/learndrivinglicense/blob/master/topics.md):驾驶证申领、安全法规知识点梳理总结
 - [equipment](https://github.com/npbcts/learndrivinglicense/blob/master/equipment.md):汽车启动说明
