@@ -34,6 +34,7 @@
 - [大鱼教练](https://space.bilibili.com/1390963080) 的 [科目三16个考试项目详细讲解](https://www.bilibili.com/video/BV1f34y1i7To/?spm_id_from=333.788)。
 这套科目三视频理论有深度，细节全拉满;驾校教练出品，个人墙裂推荐。
 - [汽车教练宝哥](https://space.bilibili.com/477350021) 的[科目三考试现场解说](https://www.bilibili.com/video/BV1SU4y1Y7Xo?spm_id_from=333.999.0.0&vd_source=db5f224185fdd2c28b4cc762ebce92fe)。无人机拍摄的上帝视角科目三考试现场，40集大型科目三考试连续剧，看完绝对有帮助。
+- [科目四口诀](https://www.bilibili.com/video/BV1AS4y1n75e/?spm_id_from=trigger_reload&vd_source=db5f224185fdd2c28b4cc762ebce92fe)
 
 
 ### 新手小知识
